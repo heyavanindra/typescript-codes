@@ -1,2 +1,6 @@
-let x: number = 1;
-console.log(x);
+function greeting(name: string){
+ console.log("hey "+ name);
+ 
+}
+greeting("avanindra")
+
